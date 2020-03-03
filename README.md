@@ -1,0 +1,2 @@
+# Th3Destroyer
+This is the official open source repository of my virus and ethical hacking tool Th3Destroyer along with it's family. This is for simulations only, if you are caught, **I AM NOT RESPONSIBLE FOR ANY MISUSE**
