@@ -3,4 +3,4 @@ This is the official open source repository of my virus and ethical hacking tool
 
 ## About Th3Destroyer
 
-This virus is created to penetrated a network consisting of
+This virus is created to penetrated a network consisting of Windows 10 IoT ediitons and along with basic end host 
